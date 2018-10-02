@@ -1,2 +1,0 @@
-# mitLicense
-MIT share License
